@@ -1,5 +1,3 @@
-# Projeto-K-Means
-
 # Relatório Técnico: Implementação e Análise do Algoritmo de K-Means
 
 ## Autores
